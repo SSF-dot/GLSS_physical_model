@@ -14,3 +14,7 @@ glss::SolveCameraModel();
 
 add noise to the outgoing rays
 glss::SolveNoisePhyModel();
+
+The input galvo signal pairs are in table-221A.txt
+The output outgoing rays are in reconstructed_points.txt
+
