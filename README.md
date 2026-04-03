@@ -10,11 +10,11 @@ ideal model and model proposed by Eisert et al.
 glss::SolveIdealModel()
 
 camera model
-glss::SolveCameraModel();
+glss::SolveCameraModel()
 
 add noise to the outgoing rays
-glss::SolveNoisePhyModel();
+glss::SolveNoisePhyModel()
 
-The input galvo signal pairs are in table-221A.txt
-The output outgoing rays are in reconstructed_points.txt
+The input galvo signal pairs are in table-221A.txt.
+The output outgoing rays are in reconstructed_points.txt.
 
